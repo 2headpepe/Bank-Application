@@ -2,7 +2,6 @@
 
 # Images
 
-|   Home page - feed    |     Post of user     |  
-| :-------------------: | :------------------: | 
-| Login Page| ![](images/post.jpg) | 
-|text||
+|   Login page   |    Main page    |          |      Search page       |      Settings page       |
+| :-------------------: | :------------------: | :---------------------: | :--------------------: | :----------------------: |
+| ![](images/feed1.jpg) | ![](images/post.jpg) | ![](images/profile.jpg) | ![](images/search.jpg) | ![](images/settings.jpg) |
