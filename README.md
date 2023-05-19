@@ -4,4 +4,4 @@
 
 |   Login page   |    Main page    |               Operations       |    
 | :-------------------: | :------------------: | :---------------------: | 
-| ![](images/login.jpg) | ![](images/main screen.jpg) | ![](images/operations.jpg) |
+| ![](login.jpg) | ![](main screen.jpg) | ![](operations.jpg) |
