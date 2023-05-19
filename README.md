@@ -2,6 +2,6 @@
 
 # Images
 
-|   Login page   |    Main page    |          |      Operations       |    
+|   Login page   |    Main page    |               Operations       |    
 | :-------------------: | :------------------: | :---------------------: | 
 | ![](images/login.jpg) | ![](images/main screen.jpg) | ![](images/operations.jpg) |
